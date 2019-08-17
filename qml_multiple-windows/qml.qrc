@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Message.qml</file>
+        <file>Set.qml</file>
+        <file>Contral.qml</file>
+        <file>Serial.qml</file>
+    </qresource>
+</RCC>
